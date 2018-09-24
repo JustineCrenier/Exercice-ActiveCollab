@@ -12,6 +12,7 @@ body{
 		width: 100%;
 		position: fixed;
 		transition: padding 0.3s ease;
+		z-index: 10;
 		img{
 			transition: all 0.3s ease;
 		}

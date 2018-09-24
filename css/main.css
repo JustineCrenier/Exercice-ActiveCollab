@@ -14,7 +14,8 @@ body header {
   position: fixed;
   -webkit-transition: padding 0.3s ease;
   -o-transition: padding 0.3s ease;
-  transition: padding 0.3s ease; }
+  transition: padding 0.3s ease;
+  z-index: 10; }
   body header img {
     -webkit-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
