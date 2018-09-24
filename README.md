@@ -1,2 +1,2 @@
-# Exercice-ActiveCollab
-Exercice: reproduire un site avec HTML/CSS
+# Exercice ActiveCollab
+Reproduire le site **Active.Collab** avec HTML/CSS
